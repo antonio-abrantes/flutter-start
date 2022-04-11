@@ -42,10 +42,10 @@
   dart pub upgrade --major-versions
   ```
 - Packages para Consumo de API's REST
-  > [Http](https://pub.dev/packages/http)
-  > [Dio](https://pub.dev/packages/dio)
-  > [Uno](https://pub.dev/packages/uno)
-  > [Exemplos básicos](https://github.com/antonio-abrantes/flutter-start/tree/main/Dart/projeto01/bin/projeto01.dart)
+  - [Http](https://pub.dev/packages/http)
+  - [Dio](https://pub.dev/packages/dio)
+  - [Uno](https://pub.dev/packages/uno)
+  - [Exemplos básicos](https://github.com/antonio-abrantes/flutter-start/tree/main/Dart/projeto01/bin/projeto01.dart)
 
 - Package para webview
-  > [WebView for Flutter](https://pub.dev/packages/webview_flutter)
+  - [WebView for Flutter](https://pub.dev/packages/webview_flutter)
